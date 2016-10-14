@@ -1,0 +1,6 @@
+{
+  "name": "Lixiang.blogs",
+  "tagline": "personal blogs repository",
+  "body": "#异常exception知识学习记录\r\n\r\n###异常的作用\r\n程序发生异常时会程序会得不到正常的运行，以至于不正常退出，有时候甚至造成用户的数据丢失，程序运行所占用的资源也得不到释放。因此，对于异常的正确处理作用为：\r\n\r\n* 对于异常的正确处理能够将异常提示给编程人员与用户\r\n* 使本来中断的程序以适当的方式继续运行，或者是退出\r\n* 保存用户的当前操作或者进行数据回滚\r\n* 释放占用的资源",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
